@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f84e8166-25c4-4a51-990c-4a193dea64b1" name="Changes" comment="Add first commit to repo.">
-      <change afterPath="$PROJECT_DIR$/lab1/ex5.py" afterDir="false" />
+    <list default="true" id="f84e8166-25c4-4a51-990c-4a193dea64b1" name="Changes" comment="Create folder for lab1. Completed exercise 5.">
+      <change afterPath="$PROJECT_DIR$/lab1/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/ex4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex3.executor": "Run",
+    "Python.ex4.executor": "Run",
     "Python.ex5.executor": "Run",
     "Python.hello world.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759739681293</updated>
       <workItem from="1759739682486" duration="982000" />
-      <workItem from="1761648627859" duration="1099000" />
+      <workItem from="1761648627859" duration="4170000" />
     </task>
     <task id="LOCAL-00001" summary="Add first commit to repo.">
       <option name="closed" value="true" />
@@ -91,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759740299833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create folder for lab1. Completed exercise 5.">
+      <option name="closed" value="true" />
+      <created>1761649836458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761649836458</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create folder for lab1. Completed exercise 5.">
+      <option name="closed" value="true" />
+      <created>1761649945357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761649945357</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,10 +129,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add first commit to repo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add first commit to repo." />
+    <MESSAGE value="Create folder for lab1. Completed exercise 5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create folder for lab1. Completed exercise 5." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/prog_pz_labs$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1761659265810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
     <SUITE FILE_PATH="coverage/prog_pz_labs$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1759740015126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/prog_pz_labs$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1761657815389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
     <SUITE FILE_PATH="coverage/prog_pz_labs$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1761649431175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab1" />
   </component>
 </project>
